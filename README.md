@@ -28,6 +28,9 @@ FTP : unlimited
 MYSQL : unlimited
 Storage : 150 go of SSD
 
+#  état du projet  
+Le projet est en standby.
+Problème de  financement.
 
 
 
